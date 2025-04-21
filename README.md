@@ -1,5 +1,5 @@
 # imarticus
-This repository contains the **Python** and **SQL** project files related to [**Imarticus Institute**](https://imarticus.org) by **Ratikant Behera**\
+This repository contains the **Python** and **SQL** project files related to [**Imarticus Institute**](https://imarticus.org) by **Ratikant Behera**
 
 **Python**:
 - files are inside **`/python`** directory.
