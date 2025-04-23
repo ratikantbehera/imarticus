@@ -1,6 +1,6 @@
 # ABOUT
 ## Dataset
-- The dataset has 1095 records
+- The dataset has 1094 records
 - Each record represents a sales transaction
 - The following details are provided in the dataset
   - **Sales Person** : The Sales Representative who was responsible for the particular transaction
