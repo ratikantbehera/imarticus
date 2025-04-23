@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Three_Bars_%281%29.jpg/1024px-Three_Bars_%281%29.jpg" width="16%" height="16%"/>
+</p>
+
 # ABOUT
 ## Dataset
 - The dataset has 1094 records
