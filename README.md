@@ -29,3 +29,7 @@ Impact of AI measured in various parameters in a particular industry of a partic
 ### Linear Regression
 #### Students Habits and Exam Performance
 A `Linear Regression` model to predict the academic performance of students based on their habits
+## Visualization
+### Tableau Dashboard
+#### Passport Power
+A dashboard to visualize passport power of all countries with data sourced from [**The Passport Index**](https://www.passportindex.org)&trade;
